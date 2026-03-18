@@ -1,0 +1,13 @@
+#menu:checked ~ ul{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: rgb(117,177,235);
+    position: fixed;
+    top: 53px;
+    bottom: 70px;
+    left: 0;
+    right: 0;
+    z-index: 9999;
+}
